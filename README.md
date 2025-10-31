@@ -18,7 +18,7 @@
 - **DevOps 파이프라인**: Docker · Jenkins · K8s
 
 ## 🧰 Tech Stack
-**Front**: React, React-Router, React-Hook-Form, Vite, Axios  
+**Front**: React, React-Router, React-Hook-Form
 **Back**: Spring Boot 3, MyBatis, Oracle, OAuth2/JWT, Redis(옵션)  
 **DevOps**: Docker, Jenkins, Kubernetes
 
