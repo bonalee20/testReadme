@@ -2,7 +2,7 @@
 <div align="center">
 
 # NullPoint-team 🥚 → 🐣 → 🐔  
-**WebNest / CodeLand**: 코드 학습 · 커뮤니티 · 미니게임 · 타자연습
+**WebNest**: 코드 학습 · 커뮤니티 · 미니게임 · 타자연습
 
 [![Front](https://img.shields.io/badge/WebNest_front-000?style=flat&logo=react)](https://github.com/NullPoint-team/WebNest_front)
 [![Back](https://img.shields.io/badge/WebNest_back-2E7D32?style=flat&logo=springboot&logoColor=white)](https://github.com/NullPoint-team/WebNest_back)
